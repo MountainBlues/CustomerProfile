@@ -17,6 +17,9 @@
     "url": "https://github.com/MountainBlues/CustomerProfile/issues"
   },
   "homepage": "https://github.com/MountainBlues/CustomerProfile#readme",
+  "dependencies": {
+    "express": "latest"
+  },
   "devDependencies": {
     "express": "^4.17.1"
   }
